@@ -39,7 +39,7 @@ p{color:var(--muted)}
 .brand small{display:block;font-family:var(--sans);font-size:.47rem;letter-spacing:.25em;margin-bottom:6px;color:var(--bronze-light)}
 .brand-mark{width:27px;height:27px;border:0px solid var(--bronze);display:grid;place-items:center;color:var(--bronze-light);font-size:.75rem}
 .brand-mark::first-letter
-.nav-links{display:flex;align-items:center;gap:25px}.nav-links>a{font-size:.62rem;font-weight:700;letter-spacing:.11em;color:#ddd5c8;transition:.25s}.nav-links>a:hover{color:var(--bronze-light)}
+.nav-links{display:flex;align-items:center;gap:35px;}.nav-links>a{margin-right: 20px;font-size:.62rem;font-weight:700;letter-spacing:.11em;color:#ddd5c8;transition:.25s}.nav-links>a:hover{color:var(--bronze-light)}
 .nav-links .nav-cta{padding:12px 15px;border:1px solid var(--bronze);color:var(--bronze-light)}
 .menu-toggle{display:none;background:none;border:0;width:42px}.menu-toggle span{display:block;width:25px;height:1px;background:var(--cream);margin:6px auto;transition:.3s}
 
